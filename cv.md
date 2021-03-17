@@ -91,7 +91,7 @@ export const fetchWeather = async (query) => {
 
 [Codewars](https://www.codewars.com/users/fernandalisses/)
 
-I don't have  a lot experince with frontend. I have motivation to program and all dedication in colaborated with good codes, solving problems and suporting the team.
+I did some projects in my spare time to get experience. I put these projects on my github. I have motivation to program and all dedication in colaborated with good codes, solving problems and suporting the team. 
 
 ### Education
 
